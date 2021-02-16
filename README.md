@@ -1,6 +1,6 @@
 # Service Worker Offline
 
-Je krijgt een online pagina. Zorg ervoor dat je **enkel** een offline.html pagina in de cache plaats en toont via een Service Worker wanneer de internetverbinding bij de gebruiker wegvalt.
+Je start met een online pagina. Zorg ervoor dat je **enkel** een offline.html pagina in de cache plaats en toont via een Service Worker wanneer de internetverbinding bij de gebruiker wegvalt.
 
 De pagina wanneer er internetverbinding is:
 
